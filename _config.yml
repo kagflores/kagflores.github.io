@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: some blog title
 header-img: img/home-bg.png
 email: karen.ag.flores@gmail.com
 copyright_name: kagflores
 description: > # this means to ignore newlines until "baseurl:"
-  
+  a subtitle
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  kagflores
